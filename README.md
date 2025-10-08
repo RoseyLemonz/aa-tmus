@@ -1,2 +1,2 @@
 # aa-tmus
-Fan game based on Phoenix Wright: Ace Attorney - Turnabout Musical 
+An Ace Attorney Fan-game made in Godot based on "Phoenix Wright: The Musical (The Turnabout Encounter)" by Random Encounters
