@@ -5,9 +5,9 @@
 [node name="Camera2D" type="Camera2D" parent="."]
 position = Vector2(640, 480)
 
-[node name="Label" type="Label" parent="Camera2D"]
-offset_left = -427.0
-offset_top = -320.0
-offset_right = 40.0
-offset_bottom = 23.0
+[node name="Label" type="Label" parent="."]
+offset_left = 213.0
+offset_top = 160.0
+offset_right = 680.0
+offset_bottom = 503.0
 text = "testing testing"
